@@ -1,5 +1,5 @@
 """
-DealSniper — Google Sheets Integration
+PropFlow — Google Sheets Integration
 Pushes deals to a Google Sheet, color codes by score, avoids duplicates.
 
 Setup:
